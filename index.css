@@ -90,49 +90,51 @@ p{
 
 .div1
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: red;
 }
 .div2
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: yellow;
 }
 .div3
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: green;
 }
 .divmaman1
 {
     display: flex;
     flex-direction: column-reverse;
+    margin-right: 10px;
 }
 
 .div4
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: blue;
 }
 .div5
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: yellow;
 }
 .div6
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: red;
 }
 .divmaman2
 {
     margin-top: 10px;
+    margin-right: 10px; 
     display: flex;
     flex-direction: column;
 }
@@ -140,52 +142,52 @@ p{
 
 .div7
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: red;
 }
 .div8
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: yellow;
 }
 .div9
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: green;
 }
 .divmaman3
 {
-    margin-left: 250px;
-    margin-top:-1200px;
+    margin-left: 100px;
+    margin-top: -520px;
     display: flex;
     flex-direction: row;
 }
 
 .div10
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: blue;
 }
 .div11
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: yellow;
 }
 .div12
 {
-    width: 200px;
-    height: 200px;
+    width: 90px;
+    height: 85px;
     background-color: red;
 }
 .divmaman4
 {
-    margin-top: 50px;
+    margin-top: 180px;
+    margin-right:895px;
     display: flex;
     flex-direction: row-reverse;
-    
 }

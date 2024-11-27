@@ -1,4 +1,4 @@
-h3{
+/*h3{
     margin: 0;
     padding: 0;
     font-style: italic;
@@ -29,7 +29,7 @@ h2{
     font-size: larger;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: red;
-}*/
+}
 p{
     margin: 0;
     padding: 0;
@@ -86,4 +86,105 @@ p{
     font-style: oblique;
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}*/
+
+.div1
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.div2
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.div3
+{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.divmaman1
+{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.div4
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.div5
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.div6
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.divmaman2
+{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.div7
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.div8
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.div9
+{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.divmaman3
+{
+    margin-left: 250px;
+    margin-top:-1200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.div10
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.div11
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.div12
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.divmaman4
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;
 }

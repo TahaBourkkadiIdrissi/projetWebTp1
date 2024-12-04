@@ -207,5 +207,9 @@ p{
     margin-top: 10px;
     display: flex;
     flex-direction: row-reverse;
-    margin-left: -50px;
 }
+.container {
+    width: 90%; /* Utilisation d'une largeur relative */
+    padding: 1em; /* Espacement flexible */
+  }
+  

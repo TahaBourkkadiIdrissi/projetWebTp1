@@ -209,7 +209,6 @@ p{
     flex-direction: row-reverse;
 }
 .container {
-    width: 90%; /* Utilisation d'une largeur relative */
-    padding: 1em; /* Espacement flexible */
-  }
-  
+  width: 90%; /* Utilisation d'une largeur relative */
+  padding: 1em; /* Espacement flexible */
+}
